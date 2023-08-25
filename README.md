@@ -7,5 +7,5 @@
 <h2> Install Matplotlib Library </h2> https://matplotlib.org/stable/users/getting_started/ <br>
 <h2>Install  Scipy Library </h2>  https://scipy.org/install/ <br>
 <h2> Install Seaborn  </h2> https://seaborn.pydata.org/installing.html <br>
-<h1>Datset</h1> https://www.kaggle.com/datasets/sjagkoo7/bmi-body-mass-index <br>
+<h2>Datset</h2> https://www.kaggle.com/datasets/sjagkoo7/bmi-body-mass-index <br>
 <br> <p> it's data analysis project</p>
